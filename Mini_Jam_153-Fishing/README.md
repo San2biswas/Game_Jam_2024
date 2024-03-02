@@ -75,7 +75,7 @@ Fish have multipe types of attack
 
 ```md
 
-- *Player*
+- <b>Player</b>
     > movement 
     > jump
     > duck
