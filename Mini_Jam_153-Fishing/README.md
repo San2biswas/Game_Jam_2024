@@ -9,12 +9,20 @@
 
 Theme : Fishing
 Limitation : No water
+Game Type : 2D, Fighting Game, Single and Split-Screen Multi Player game
+Art : greyscale with few color popup
+Platform : Windows, Web
+Control : Keyboard and Joystick
+Start Date : 01/03/2024
+Fin Date : 04/03/2024
+Joined Date : 03/03/2024 
 Jam Link : https://itch.io/jam/mini-jam-153-fishing
+Game Link : 
 
 ```
 
 
-### Idea
+### Ideas
 
 ```md
 
@@ -39,5 +47,33 @@ Jam Link : https://itch.io/jam/mini-jam-153-fishing
 >> draw with fish collected
 
 >> fight with fish like mortal combat
+
+```
+
+
+### Storyline
+
+```md
+
+>> fight with fish like mortal combat
+
+```
+
+
+### Gameplay and Mechanics
+
+```md
+
+Fighting game similar to Street fighter 2D.
+Player Have a sword/fishing rod
+Fish have multipe types of attack
+
+```
+
+### Credits
+
+```md
+
+Special thanks to Stealthix
 
 ```
