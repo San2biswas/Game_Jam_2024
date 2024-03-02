@@ -74,16 +74,9 @@ Fish have multipe types of attack
 ### Features
 
 ```md
-Player
-> movement 
-> jump
-> duck
-> melee attack
-> defence
-> special attack/combo
 
-- Player
-    - movement 
+* Player *
+    > movement 
     > jump
     > duck
     > melee attack
