@@ -26,7 +26,7 @@ Game Link :
 
 ```md
 
->> fish are jumping on the land you need to catch them to save your farm, fishes have different kind of attack liek poison, blast, bubble shoot, slippery
+>> fish are jumping on the land you need to catch them to save your farm, fishes have different kind of attack like poison, blast, bubble shoot, slippery
 
 >> you're falling from a waterfall, catch while go down
 
@@ -75,13 +75,18 @@ Fish have multipe types of attack
 
 ```md
 
-- <b>Player</b>
+- Player
     > movement 
     > jump
     > duck
     > melee attack
     > defence
     > special attack/combo
+
+- Fish
+    > jump
+    > bubble attack
+    > 
 
 ```
 
