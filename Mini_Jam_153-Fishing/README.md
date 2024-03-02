@@ -82,8 +82,8 @@ Player
 > defence
 > special attack/combo
 
-Player
-    > movement 
+- Player
+    - movement 
     > jump
     > duck
     > melee attack
