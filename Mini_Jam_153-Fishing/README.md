@@ -15,7 +15,7 @@ Platform : Windows, Web
 Control : Keyboard and Joystick
 Start Date : 01/03/2024
 Fin Date : 04/03/2024
-Joined Date : 03/03/2024 
+Joined Date : 02/03/2024 
 Jam Link : https://itch.io/jam/mini-jam-153-fishing
 Game Link : 
 
@@ -79,14 +79,15 @@ Fish have multipe types of attack
     > movement 
     > jump
     > duck
-    > melee attack
+    > range attack
     > defence
     > special attack/combo
 
 - Fish
     > jump
     > bubble attack
-    > 
+    > time fish blast
+    > poison breath
 
 ```
 
