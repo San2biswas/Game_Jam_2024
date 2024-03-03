@@ -1,0 +1,14 @@
+Mini Jam 153: Fishing Devlog :
+------------------------------
+
+
+02/03/2024 :
+```````````
+- joined the jam
+- repository created
+- made few ideas
+
+03/03/2024 :
+``````````
+- game development document created
+- character development started
