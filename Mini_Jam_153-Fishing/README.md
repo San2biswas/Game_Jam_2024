@@ -48,6 +48,8 @@ Game Link :
 
 >> fight with fish like mortal combat
 
+>> big fish eatting small fishes in the sand, while avoid obstacles
+
 ```
 
 
