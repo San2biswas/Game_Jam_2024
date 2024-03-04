@@ -20,3 +20,6 @@ if image_yscale > 2.5 image_yscale = 2.5
 
 if x > 490 x = 490
 if x < 260 x = 260
+
+
+
