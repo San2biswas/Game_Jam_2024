@@ -17,7 +17,7 @@ Start Date : 01/03/2024
 Fin Date : 04/03/2024
 Joined Date : 02/03/2024 
 Jam Link : https://itch.io/jam/mini-jam-153-fishing
-Game Link : 
+Game Link : https://san2art.itch.io/arcade-fishing
 
 ```
 
@@ -78,13 +78,7 @@ Player control a mechanical hand to pick up fish toy
 - Player
     > movement sideways
     > the hook move down-upwards
-    > hook can attach-detach with other objects
-
-- Obstacles
-    > spike on blocks
-    > laser will chopping rope 
-    > blast
-    > magnet
+    > hook can attach-detach with fish
 
 ```
 
@@ -93,6 +87,6 @@ Player control a mechanical hand to pick up fish toy
 
 ```md
 
-Special thanks to Stealthix, morgan
+Special thanks to *Stealthix*, *morgan*.
 
 ```
