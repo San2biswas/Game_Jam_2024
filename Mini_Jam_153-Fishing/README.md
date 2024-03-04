@@ -57,7 +57,7 @@ Game Link :
 
 ```md
 
->> fight with fish like mortal combat
+>> capture the toy with machine hand
 
 ```
 
@@ -66,9 +66,7 @@ Game Link :
 
 ```md
 
-Fighting game similar to Street fighter 2D.
-Player Have a sword/fishing rod
-Fish have multipe types of attack
+Player control a mechanical hand to pick up fish toy
 
 ```
 
@@ -78,18 +76,15 @@ Fish have multipe types of attack
 ```md
 
 - Player
-    > movement 
-    > jump
-    > duck
-    > range attack
-    > defence
-    > special attack/combo
+    > movement sideways
+    > the hook move down-upwards
+    > hook can attach-detach with other objects
 
-- Fish
-    > jump
-    > bubble attack
-    > time fish blast
-    > poison breath
+- Obstacles
+    > spike on blocks
+    > laser will chopping rope 
+    > blast
+    > magnet
 
 ```
 
@@ -98,6 +93,6 @@ Fish have multipe types of attack
 
 ```md
 
-Special thanks to Stealthix
+Special thanks to Stealthix, morgan
 
 ```
