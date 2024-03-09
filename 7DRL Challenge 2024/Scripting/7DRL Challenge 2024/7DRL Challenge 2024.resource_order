@@ -17,8 +17,14 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"o_boundry","order":3,"path":"objects/o_boundry/o_boundry.yy",},
+    {"name":"o_enemy","order":5,"path":"objects/o_enemy/o_enemy.yy",},
+    {"name":"o_enemy2","order":6,"path":"objects/o_enemy2/o_enemy2.yy",},
     {"name":"o_generator","order":1,"path":"objects/o_generator/o_generator.yy",},
     {"name":"o_hud_text","order":2,"path":"objects/o_hud_text/o_hud_text.yy",},
+    {"name":"o_outside","order":4,"path":"objects/o_outside/o_outside.yy",},
     {"name":"s_connecter","order":1,"path":"sprites/s_connecter/s_connecter.yy",},
+    {"name":"s_enemy","order":3,"path":"sprites/s_enemy/s_enemy.yy",},
+    {"name":"s_outside","order":2,"path":"sprites/s_outside/s_outside.yy",},
   ],
 }
