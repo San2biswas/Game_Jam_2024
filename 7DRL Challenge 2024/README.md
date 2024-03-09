@@ -17,6 +17,16 @@ Game Link :
 
 ```
 
+
+### Goal
+
+```md
+
+less graphics and more audio and fx.
+
+```
+
+
 ### Must :
 
 ```md
@@ -48,3 +58,10 @@ inventory (optional)
 ```
 
 
+### Mechanics and Gameplay
+
+```md
+
+basic movement using wasd. ability to attack. collect on contact. e to unlock door. core mechanics is mediate for 2 turn then deal aoe dammage to teh surrounding. it can move faster when not carrying any weapon.
+
+```
