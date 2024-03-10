@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"o_enemy2",
+  "%Name":"o_player",
   "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_enemy2",
+  "name":"o_player",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"o_enemy",
-    "path":"objects/o_enemy/o_enemy.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_enemy",
-    "path":"sprites/s_enemy/s_enemy.yy",
+    "name":"s_player",
+    "path":"sprites/s_player/s_player.yy",
   },
   "spriteMaskId":null,
   "visible":true,

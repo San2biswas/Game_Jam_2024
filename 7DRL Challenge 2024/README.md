@@ -7,8 +7,8 @@
 
 ```md
 
-Theme : Rougelike 
-Type : 2d Rougelike
+Theme : roguelike 
+Type : 2d roguelike
 Date Start : 01/03/2024
 Date Fin : 11/03/2024
 Date Joined : 05/03/2024 

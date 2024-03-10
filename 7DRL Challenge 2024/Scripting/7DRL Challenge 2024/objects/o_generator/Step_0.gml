@@ -1,5 +1,7 @@
 /// @description 
 
+scr_controls();
+
 
 #region wall generate
 
@@ -50,4 +52,22 @@ if (instance_count>64)&&(instance_count<70)
 
 
 #endregion enemy2 generate end
+
+
+#region enemy3 generate #traps
+
+
+start_location_x = floor(random_range(1, 17))
+start_location_y = floor(random_range(2, 12))
+
+
+if (instance_count>69)&&(instance_count<80)
+{
+	instance_create_layer(start_location_x*global.tileSize+global.tileSize, start_location_y*global.tileSize+global.tileSize, "lr_generate",o_enemy3)
+	global.enemy3_c ++;
+}
+
+
+#endregion enemy3 generate end
+
 
