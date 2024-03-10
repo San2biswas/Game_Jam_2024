@@ -13,7 +13,7 @@ Date Start : 01/03/2024
 Date Fin : 11/03/2024
 Date Joined : 05/03/2024 
 Jam Link : https://itch.io/jam/7drl-challenge-2024
-Game Link : 
+Game Link : https://san2art.itch.io/the-gate
 
 ```
 
