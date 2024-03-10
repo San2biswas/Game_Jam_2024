@@ -40,7 +40,7 @@ if (key_s)
 if place_meeting(x, y, o_gate) and global.key = 1
 {
 	global.key = 0;
-	game_restart();
+	room_restart();
 }
 
 
@@ -53,6 +53,7 @@ if place_meeting(x, y, o_gate) and global.key = 1
 if place_meeting(x, y, o_enemy3)
 {
 	global.player_health = global.player_health - 10
+	
 }
 
 
@@ -80,7 +81,11 @@ if place_meeting(x, y, o_npc)
 
 
 
-if global.player_health < 0			global.player_health = 0;
+if global.player_health < 0	
+{
+	global.player_health = 0;
+	game_restart();
+}
 if global.player_health > 100		global.player_health = 100;
 
 

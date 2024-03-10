@@ -13,6 +13,8 @@
 
 //#endregion debug end
 
-
-draw_text(32*1, 32, "health : " + string(global.player_health))
+if global.game_start == 1
+{
+	draw_text(32*1, 32, "health : " + string(global.player_health))
+}
 

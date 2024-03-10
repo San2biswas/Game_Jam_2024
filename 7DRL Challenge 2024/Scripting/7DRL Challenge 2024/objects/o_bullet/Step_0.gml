@@ -5,7 +5,7 @@ scr_controls();
 
 if key_a or key_d or key_w or key_s
 {
-	x = x -32
+	x = x -16
 }
 
 
