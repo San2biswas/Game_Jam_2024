@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"7DRL Challenge 2024",
+  "%Name":"The_Gate",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,7 +32,7 @@
   "MetaData":{
     "IDEVersion":"2024.2.0.132",
   },
-  "name":"7DRL Challenge 2024",
+  "name":"The_Gate",
   "resources":[
     {"id":{"name":"o_boundry","path":"objects/o_boundry/o_boundry.yy",},},
     {"id":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},},
