@@ -1,3 +1,3 @@
-/// @description 
 
-image_blend = c_aqua
+
+image_blend = c_aqua;

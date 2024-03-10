@@ -23,7 +23,7 @@ if place_meeting(x, y, o_npc)
 
 
 
-if place_meeting(x, y, o_player) && instance_count>5
+if place_meeting(x, y, o_player) && instance_count<60
 {
 	instance_destroy(other);
 	global.wall_c --;
