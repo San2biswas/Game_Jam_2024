@@ -8,7 +8,8 @@
 ```md
 
 Theme : roguelike 
-Type : 2d roguelike
+Type : 2d roguelike, grid based, turn based
+Resolution : 1280 x 960 [ 32 grid size ]
 Date Start : 01/03/2024
 Date Fin : 11/03/2024
 Date Joined : 05/03/2024 
