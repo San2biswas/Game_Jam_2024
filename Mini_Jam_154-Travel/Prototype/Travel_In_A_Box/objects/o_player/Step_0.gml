@@ -3,17 +3,34 @@
 scr_control();
 
 
+
 if key_d
 {
-	global.spd = 1;
-	hmv = 1;
+	if place_meeting(x + 1, y , o_world)
+	{
+		global.spd = 0;
+	}
+	else
+	{
+		global.spd = 1;
+		hmv = 1;
+	}
+
 }
 
 
 if key_a
 {
-	global.spd = 1;
-	hmv = -1;
+	if place_meeting(x - 1, y , o_world)
+	{
+		global.spd = 0;
+	}
+	else
+	{
+		global.spd = 1;
+		hmv = -1;
+	}
+
 }
 
 
@@ -43,6 +60,12 @@ x = x + global.spd * hmv
 
 
 #region ground collision
+
+
+//if place_meeting(x, y + 1, o_world)
+//{
+//	y = y - 1
+//}
 
 
 if !place_meeting(x, y + 2, o_world)
