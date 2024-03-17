@@ -1,12 +1,19 @@
 /// @description 
+scr_controls();
 
-move_x = keyboard_check(vk_right) - keyboard_check(vk_left);
+
+move_x = key_d - key_a;
 move_x *= move_speed;
 
 if (place_meeting(x, y+2, obj_ground))
 {
 	move_y = 0;
-	if (keyboard_check(vk_space)) move_y = -jump_speed;
+	if key_space 
+	{
+		y = y - 24;
+		global.fall = global.gravity + 1;
+		move_y = -jump_speed;
+	}
 	if !place_meeting(x-2, y, obj_ground)
 	{
 		x = x - 1;
@@ -38,6 +45,8 @@ if place_meeting(x, y-2, obj_ground)
 
 
 
+global.fall = global.fall - 0.05;
+if global.fall <0 global.fall = 0;
 
 
 move_and_collide(move_x, move_y, obj_ground);
