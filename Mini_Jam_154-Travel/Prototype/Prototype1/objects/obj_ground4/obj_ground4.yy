@@ -6,8 +6,8 @@
   "name":"obj_ground4",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"bg",
+    "path":"folders/Objects/bg.yy",
   },
   "parentObjectId":{
     "name":"obj_ground",
