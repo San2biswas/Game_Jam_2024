@@ -90,15 +90,18 @@ Welcome to the annual GameDev.tv Jam 2024!
 - player vision
 - player hang movement
 
-```md
+```
 
 
 ## gameflow
+
+```md
 
 - game jam splash
 - cover aniamtion and menu
 - cabin
 
+```
 
 ## timeline
 
