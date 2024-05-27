@@ -18,7 +18,7 @@ Color sceme :
 Music : a little horror type, people taking, footsteps,
 Start Date : 25/05/2024
 Fin Date : 04/06/2024
-Total time spent : 1 hr
+Total time spent : 2 hr
 Estimate : ~25 hr
 Jam Link : https://itch.io/jam/gamedevtv-jam-2024
 Game Link :  
