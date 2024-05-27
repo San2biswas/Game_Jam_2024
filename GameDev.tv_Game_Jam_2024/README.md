@@ -7,21 +7,21 @@ Welcome to the annual GameDev.tv Jam 2024!
 
 ```md
 
-**Game Name :**
-**Theme :** Last Stand!
-**Type :** SIMPLE and SHORT, Stealth, Puzzle, Action, isometric/top
-**Platform :** windows and web
-**Control :** keyboard
-**Audiance :** 13+
-**Art :** 2d shade with glows and light overlays
-**Color sceme :** 
-**Music :** a little horror type, people taking, footsteps,
-**Start Date :** 25/05/2024
-**Fin Date :** 04/06/2024
-**Total time spent :** 1 hr
-**Estimate :** ~25 hr
-**Jam Link :** https://itch.io/jam/gamedevtv-jam-2024
-**Game Link :** 
+Game Name :
+Theme : Last Stand!
+Type : SIMPLE and SHORT, Stealth, Puzzle, Action, isometric/top
+Platform : windows and web
+Control : keyboard
+Audiance : 13+
+Art : 2d shade with glows and light overlays
+Color sceme : 
+Music : a little horror type, people taking, footsteps,
+Start Date : 25/05/2024
+Fin Date : 04/06/2024
+Total time spent : 1 hr
+Estimate : ~25 hr
+Jam Link : https://itch.io/jam/gamedevtv-jam-2024
+Game Link :  
 
 ```
 
@@ -107,16 +107,16 @@ Welcome to the annual GameDev.tv Jam 2024!
 
 ```md
 
-- **GDD :** 27/05/2024, *2 hr*
-- **Prototype :** 27/05/2024, *6 hr*
-- **Playtest :** 27/05/2024, *30 min*
-- **Art :** 28/05/2024, *5 hr*
-- **Sound :** 28/05/2024, *3 hr*
-- **Playtest :** 28/05/2024, *30 min*
-- **Fx and Polishing :** 29/05/2024, *3 hr*
-- **UI and Menu :** 29/05/2024, *2 hr*
-- **Final Gamepaly :** 30/05/2024, *2 hr*
-- **Website and Screenshots :** 30/05/2024, *1 hr*
+- GDD : 27/05/2024, 2 hr
+- Prototype : 27/05/2024, 6 hr
+- Playtest : 27/05/2024, 30 min
+- Art : 28/05/2024, 5 hr
+- Sound : 28/05/2024, 3 hr
+- Playtest : 28/05/2024, 30 min
+- Fx and Polishing : 29/05/2024, 3 hr
+- UI and Menu : 29/05/2024, 2 hr
+- Final Gamepaly : 30/05/2024, 2 hr
+- Website and Screenshots : 30/05/2024, 1 hr
 
 ```
 
