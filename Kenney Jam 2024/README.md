@@ -11,7 +11,6 @@ Submission Date : 21/07/2024
 Genre : 
 Platform : Web, Windows
 Game Link : 
-
 ```
 
 
@@ -26,19 +25,43 @@ Game Link :
 - a survival game where your dog is connected with you
 - a time limited game where a connected rope losen time to time, you have to finish before it
 - make a spaceship with connection
-
-```
-
-
-### gameplay
-
-```md
+- **platformer with a friend/pet connected who can do stuff like auto attack or can be controlled but limited to the area**
 ```
 
 
 ### features
 
 ```md
+- movement
+- wall collision
+- jump
+- pet follow
+- colloect
+- attack
+- enemy attack
+- pet attack
+```
+
+
+### gameflow
+
+```md
+- gamecover and menu aniamtion and kenney jam animation 
+- start
+    - level
+    - option
+    - exit
+- gameloop
+- end splash
+- credits
+```
+
+
+### gameplay
+
+```md
+    player can move left and right and jump using A or left arrow, D or right arrow and space key. a pet follows the character, but it's slower than the player. you can control both but one at a time. 
+    collect the key and reach towards your goal. after 4 keys boss fight. finish it to finish the game.
 ```
 
 
@@ -47,7 +70,7 @@ Game Link :
 ```md
 Assets : Kenney Assets [https://kenney.nl/](https://kenney.nl/)
 Font : 
-
+Sound : 
 ```
 
 
