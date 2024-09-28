@@ -4,9 +4,11 @@ The main condition is to create a game that uses any two colors.
 
 ## Info
 
+- **Game Name** : Defend
 - **Start Date** : September 26th 2024 at 7:55 PM
 - **Finish Date** :  October 11th 2024 at 7:57 PM
 - **Theme** : Tower
+- **Jam Link** : https://itch.io/jam/1-bit-jam-4
 
 
 ## Concept
